@@ -1,6 +1,6 @@
 <!-- Banner GIF at the top -->
 <p align="center">
-  <img src="YOUR_BANNER_GIF_URL" alt="Water and flower petals banner" width="100%">
+  <img src="" alt="Water and flower petals banner" width="100%">
 </p>
 
 # ﹋հҽllօ! ◠◠
@@ -9,9 +9,10 @@
 
 <p align="left">
   <!-- First Flag (Agender) -->
-  <img src="YOUR_FIRST_IMAGE_URL" alt="Agender Pride Flag" width="45%" style="max-width:400px; display:inline-block; margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/79b0dd20-c76c-4c9e-9a45-14898036f7d7" alt="Agender Pride Flag" width="45%" style="max-width:400px; display:inline-block; margin-right: 10px;" />
   <!-- Second Flag (Transmasculine) -->
-  <img src="YOUR_SECOND_IMAGE_URL" alt="Transmasculine Pride Flag" width="45%" style="max-width:400px; display:inline-block;" />
+  <img src="https://github.com/user-attachments/assets/5789fd69-f139-403e-a529-360f5991c3b5" 
+ alt="Masc Presenting Pride Flag" width="45%" style="max-width:400px; display:inline-block;" />
 </p>
 
 ## 🫆︴ αճօմԵ ოҽ...  
@@ -29,7 +30,10 @@
 
 ➥𝘐 𝘭𝘰𝘷𝘦 𝘮𝘢𝘬𝘪𝘯𝘨 𝘧𝘳𝘪𝘦𝘯𝘥𝘴! 𝘠𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘸𝘢𝘺𝘴 𝘵𝘢𝘭𝘬 𝘵𝘰 𝘮𝘦! 
 
+</div>
 
+</div>
+<!-- Background Wrapper End -->
 
 <!--
 **bugb0lovrr/bugb0lovrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
